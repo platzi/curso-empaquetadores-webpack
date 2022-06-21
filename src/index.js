@@ -20,7 +20,7 @@ const data = {
   ],
   links: [
     {
-      name: "blog",
+      name: "gndx.dev",
       url: "https://example.com/",
       color: "red",
       emoji: "📖",
